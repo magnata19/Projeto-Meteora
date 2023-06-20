@@ -1,0 +1,22 @@
+.texto-menor{
+    font-size: 13px;
+}
+
+.divs-facilidades{
+    width: 325px;
+}
+
+.botao-lilas {
+    background-color: #9353FF;
+}
+
+.verde-limao {
+    color: #DAFF01;
+}
+
+.sombras:hover{
+    box-shadow: 4px 4px 6px rgba(0, 0, 0, .5);
+    scale: 1.03;
+    transition: all 0.9s;
+    cursor:pointer;
+}
